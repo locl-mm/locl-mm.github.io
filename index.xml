@@ -6,10 +6,19 @@
     <description>Recent content on Icarus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2019 19:07:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 19:11:14 +0800</lastBuildDate>
     
 	<atom:link href="https://locl-mm/locl-mm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://locl-mm/locl-mm.github.io/about/</link>
+      <pubDate>Thu, 17 Oct 2019 19:11:14 +0800</pubDate>
+      
+      <guid>https://locl-mm/locl-mm.github.io/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>First</title>
